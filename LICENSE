@@ -1,0 +1,33 @@
+Business Source License 1.1
+
+Licensor: Jon K. Jacobson
+
+Licensed Work: ShareYourScore  
+The Licensed Work is the software, documentation, and associated files contained in this repository.
+
+Change Date: January 1, 9999  
+Change License: Apache License, Version 2.0
+
+Additional Use Grant:
+You may use, copy, modify, and experiment with the Licensed Work for the purposes of:
+  • noncommercial research,  
+  • academic study, and  
+  • nonprofit community education related to childhood adversity or ACE scores.
+
+Any other use — including operating a public‑facing service, deploying the software in any region, or using it to provide services to others — requires the Licensor’s explicit written permission. This requirement exists to protect the integrity of the mission, ensure responsible stewardship of sensitive community data, and prevent fragmentation of efforts supporting children and families affected by adversity.
+
+License Terms:
+Under this License, you may use the Licensed Work only as expressly permitted above.  
+Any production use, commercial use, or operation of the Licensed Work as a service without explicit permission is prohibited.
+
+On the Change Date, the License will automatically convert to the Change License for the Licensed Work as it exists on that date.
+
+This License does not grant trademark rights, and it does not grant permission to imply endorsement by the Licensor.
+
+For clarity:
+  • Reading the source code is allowed.  
+  • Contributing improvements is allowed.  
+  • Internal testing and development are allowed.  
+  • Deployment, distribution, or offering the software as a service is not allowed without permission.
+
+All rights not expressly granted are reserved by the Licensor.
